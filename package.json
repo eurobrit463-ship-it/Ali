@@ -1,0 +1,1 @@
+{"name": "messaging-backend","version": "1.0.0","description": "A Node.js messaging backend application with Firebase integration","main": "index.js","scripts": {"start": "node index.js"},"dependencies": {"firebase-admin": "^11.0.0","express": "^4.17.1"},"author": "eurobrit463-ship-it","license": "ISC"}
